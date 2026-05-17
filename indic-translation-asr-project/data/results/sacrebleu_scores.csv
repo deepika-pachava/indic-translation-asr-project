@@ -1,0 +1,2 @@
+model,corpus_bleu,mean_sentence_bleu,brevity_penalty,length_ratio,num_sentences
+ai4bharat/indictrans2-en-indic-1B,52.72,51.12,0.9718,0.9722,20

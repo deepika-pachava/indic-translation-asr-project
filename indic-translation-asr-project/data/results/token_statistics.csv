@@ -1,0 +1,6 @@
+model,mean_src_tokens,mean_tgt_tokens,mean_expansion_ratio,mean_avg_word_length,mean_subword_fragmentation,mean_unk_rate
+indictrans2-en-indic-1B,7.15,12.25,1.714,5.954,0.175,0.003
+madlad400-3b-mt,7.15,15.05,2.093,6.046,0.269,0.005
+mt5-base,7.15,20.45,2.855,5.76,0.476,0.022
+nllb-200-distilled-600M,7.15,16.05,2.25,5.859,0.313,0.009
+opus-mt-en-ta,7.15,20.25,2.832,6.268,0.387,0.015

@@ -1,0 +1,9 @@
+suffix,meaning,indictrans2_tokens,nllb_tokens,mt5_tokens,opus_tokens,madlad_tokens
+-கள்,plural,1,1,2,2,1
+-க்கு,dative,1,2,3,2,2
+-ல்,locative,1,1,2,1,1
+-கிறது,present,1,2,4,3,2
+-யிருந்தது,past cont,2,3,5,4,3
+-யுள்ளது,present perf,2,3,5,4,3
+-னார்,past 3rd,1,2,3,2,2
+-வார்கள்,future pl,2,3,5,4,3

@@ -1,0 +1,6 @@
+model,tokens,num_tokens,tokenizer_type
+indictrans2-en-indic-1B,▁மாணவர்கள் | ▁பள்ளிக்கு | ▁செல்கிறார்கள்,3,SentencePiece (Unigram)
+nllb-200-distilled-600M,▁மாணவர் | கள் | ▁பள்ளி | க்கு | ▁செல்கிறார் | கள்,6,SentencePiece (BPE)
+mt5-base,▁மா | ண | வர் | கள் | ▁பள் | ளி | க்கு | ▁செல் | கிறார் | கள்,10,SentencePiece (BPE)
+opus-mt-en-ta,▁மாண | வர்கள் | ▁பள்ளி | க்கு | ▁செல் | கிறார்கள்,6,SentencePiece (BPE)
+madlad400-3b-mt,▁மாணவர்கள் | ▁பள்ளிக்கு | ▁செல் | கிறார்கள்,4,SentencePiece (Unigram)
